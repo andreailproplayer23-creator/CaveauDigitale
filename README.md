@@ -28,7 +28,7 @@
 
 Se non sei un programmatore, puoi scaricare l'installer già pronto:
 
-1.  Vai nella sezione [Releases](https://github.com/andrea.ilproplayer23-creator/CaveauDigitale/releases).
+1.  Vai nella sezione [Releases]([https://github.com/andrea.ilproplayer23-creator/CaveauDigitale/releases]).
 2.  Scarica `CaveauDigitale_Setup.exe`.
 3.  Esegui l'installazione e avvia il programma dal Desktop.
 
