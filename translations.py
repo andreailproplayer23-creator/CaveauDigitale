@@ -1,0 +1,72 @@
+# translations.py
+
+LANGUAGES = {
+    "IT": {
+        "title": "CAVEAU DIGITALE",
+        "btn_file": "+ FILE",
+        "btn_folder": "+ CARTELLA",
+        "btn_close": "❌ CHIUDI",
+        "btn_unlock": "SBLOCCA",
+        "search_ph": "🔍 Cerca per nome file o nota...",
+        "login_user": "Utente",
+        "login_pass": "Password",
+        "login_btn": "ENTRA",
+        "reg_title": "🆕 CONFIGURAZIONE",
+        "reg_btn": "CREA CAVEAU",
+        "msg_error": "Errore",
+        "msg_wrong_pass": "Password errata! Tentare il reset?",
+        "prompt_note": "Inserisci una nota:",
+        "prompt_pwd": "Password per: {name}\n(Lascia vuoto per Master Password)"
+    },
+    "EN": {
+        "title": "DIGITAL VAULT",
+        "btn_file": "+ FILE",
+        "btn_folder": "+ FOLDER",
+        "btn_close": "❌ CLOSE",
+        "btn_unlock": "UNLOCK",
+        "search_ph": "🔍 Search by filename or note...",
+        "login_user": "Username",
+        "login_pass": "Password",
+        "login_btn": "LOGIN",
+        "reg_title": "🆕 CONFIGURATION",
+        "reg_btn": "CREATE VAULT",
+        "msg_error": "Error",
+        "msg_wrong_pass": "Wrong password! Try reset?",
+        "prompt_note": "Enter a note:",
+        "prompt_pwd": "Password for: {name}\n(Leave empty for Master Password)"
+    },
+    "ES": {
+        "title": "BÓVEDA DIGITAL",
+        "btn_file": "+ ARCHIVO",
+        "btn_folder": "+ CARPETA",
+        "btn_close": "❌ CERRAR",
+        "btn_unlock": "DESBLOQUEAR",
+        "search_ph": "🔍 Buscar por nombre o nota...",
+        "login_user": "Usuario",
+        "login_pass": "Contraseña",
+        "login_btn": "ENTRAR",
+        "reg_title": "🆕 CONFIGURACIÓN",
+        "reg_btn": "CREAR BÓVEDA",
+        "msg_error": "Error",
+        "msg_wrong_pass": "¡Contraseña incorrecta! ¿Intentar reset?",
+        "prompt_note": "Insertar nota:",
+        "prompt_pwd": "Contraseña para: {name}\n(Dejar vacío para Master Password)"
+    },
+    "FR": {
+        "title": "COFFRE NUMÉRIQUE",
+        "btn_file": "+ FICHIER",
+        "btn_folder": "+ DOSSIER",
+        "btn_close": "❌ FERMER",
+        "btn_unlock": "OUVRIR",
+        "search_ph": "🔍 Rechercher par nom ou note...",
+        "login_user": "Utilisateur",
+        "login_pass": "Mot de passe",
+        "login_btn": "CONNEXION",
+        "reg_title": "🆕 CONFIGURATION",
+        "reg_btn": "CRÉER LE COFFRE",
+        "msg_error": "Erreur",
+        "msg_wrong_pass": "Mot de passe incorrect! Essayer le reset?",
+        "prompt_note": "Ajouter une note:",
+        "prompt_pwd": "Mot de passe pour: {name}\n(Laissez vide per Master Password)"
+    }
+}
